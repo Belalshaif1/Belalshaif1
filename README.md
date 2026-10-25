@@ -1,21 +1,193 @@
-# 💫 About Me:
- 👋 مرحباً، أنا بلال شائف عبدالله سيف<br><br> 👨‍💻 مهندس برمجيات | مؤسس ومدير تنفيذي لشركة GigatopX<br><br>أنا المهندس بلال شائف عبدالله سيف، مهندس برمجيات وخريج بكالوريوس علوم الحاسوب لعام 2025 بمرتبة الشرف، ومؤسس ومدير تنفيذي لشركة GigatopX المتخصصة في تطوير البرمجيات والحلول التقنية والتحول الرقمي.<br><br>أعمل على تصميم وتطوير الأنظمة البرمجية المتكاملة، وتحوّل الأفكار إلى منتجات رقمية عملية تساعد الشركات والمؤسسات على تنظيم أعمالها، وتحسين كفاءتها، وتطوير خدماتها.<br><br>أجمع في عملي بين الخبرة التقنية والرؤية الريادية، مع التركيز على بناء منتجات قابلة للتطوير، وتجربة مستخدم متميزة، وحلول تلبي الاحتياجات الفعلية للعملاء.<br><br>🌐 موقعي الشخصي:[belal-shaif.vercel.app](https://belal-shaif.vercel.app/)<br><br>🏢 الشركة: [GigatopX](https://ww.gigatopx.com/)<br><br>---<br> عن عملي<br>بصفتي مؤسسًا ومديرًا تنفيذيًا لشركة GigatopX، أركز على تطوير المنتجات البرمجية وإدارة توجهها التقني، والعمل على تحويل الاحتياجات التجارية والإدارية إلى حلول رقمية متكاملة.<br><br>تشمل مجالات عملي:<br><br>💻 تطوير مواقع الويب والمنصات الرقمية.<br>📱 تطوير تطبيقات الهواتف المحمولة.<br>🧾 بناء الأنظمة المحاسبية وأنظمة تخطيط موارد المؤسسات (ERP).<br>🏢 تطوير أنظمة إدارة الشركات والموارد البشرية.<br>🎓 تطوير المنصات التعليمية وأنظمة إدارة المدارس والجامعات.<br>🤖 دمج تقنيات الذكاء الاصطناعي في التطبيقات والأنظمة.<br>⚙️ تطوير الواجهات الخلفية وواجهات برمجة التطبيقات وقواعد البيانات.<br>🔄 تطوير حلول التحول الرقمي وأتمتة العمليات.<br><br> 🌟 أبرز مشاريعي<br><br> 🎓 الدليل الجامعي الذكي | Smart University Handbook<br><br>منصة تعليمية تهدف إلى توفير دليل شامل للجامعات والكليات والأقسام الأكاديمية والبرامج التعليمية، مع خدمات ومعلومات موجهة للطلاب والباحثين وأولياء الأمور، إلى جانب خدمات إدارة شؤون الطلاب.<br><br>🔗 [زيارة المنصة](https://smartuniversity.vercel.app/)<br><br><br> 🧾 الأنظمة المحاسبية وأنظمة ERP<br><br>تطوير حلول لإدارة الحسابات والمبيعات والمشتريات والمخزون والفواتير والمدفوعات والتقارير المالية، مع الاهتمام بالتشغيل المحلي وإمكانية العمل دون اتصال دائم بالإنترنت.<br><br>🔗 [تجربة النظام المحاسبي](https://alomzar.gigatopx.com/)<br><br> 💼 FinTopx | المحاسبة والموارد البشرية<br><br>منتج برمجي يركز على توفير حلول لإدارة العمليات المحاسبية والموارد البشرية ضمن منظومة مترابطة لدعم احتياجات الشركات والمؤسسات.<br><br>🏫 نظام إدارة المدارس<br><br>نظام لتنظيم البيانات المدرسية والطلاب، مع بوابة للطلاب للاطلاع على الدرجات والمعلومات الأكاديمية.<br><br>🏥 نظام إدارة العيادات<br><br>تطبيق ويب يهدف إلى تنظيم العمليات الإدارية الأساسية للعيادات وتسهيل إدارة المعلومات.<br><br> 🤖 CraftBot | المساعد الذكي<br><br>مشروع تقني يركز على تطوير منصة للمساعدات الذكية، والاستفادة من نماذج الذكاء الاصطناعي وقواعد البيانات المتجهية في المحادثة واسترجاع المعلومات.<br><br>---<br><br> 🛠️ التقنيات والأدوات<br><br>تطوير الواجهات الأمامية<br><br>React<br>TypeScript<br>JavaScript<br>HTML5 وCSS3<br>Vite<br><br>تطوير تطبيقات الهواتف<br><br>Flutter<br>Dart<br><br>تطوير الأنظمة الخلفية<br><br>Python<br>FastAPI<br>Django<br>REST APIs<br><br>قواعد البيانات والخدمات السحابية<br><br>PostgreSQL<br>MySQL<br> Firebase<br>Supabase<br><br>أدوات وتقنيات أخرى<br><br>Git وGitHub<br>Linux<br>البرمجة كائنية التوجه (OOP)<br>هياكل البيانات والخوارزميات<br>الشبكات وإدارة أنظمة MikroTik والمراقبة CCTV<br><br>---<br><br> 🎯 رؤيتي<br><br>أسعى من خلال GigatopX إلى المساهمة في تطوير قطاع البرمجيات والتحول الرقمي، وبناء منتجات تقنية عملية وقابلة للتوسع، تساعد الشركات والمؤسسات على إدارة مواردها وتحسين عملياتها وتعزيز قدرتها على النمو.<br><br>أؤمن بأن التقنية ليست مجرد أدوات وبرمجيات، بل وسيلة لصناعة الفرص، وحل المشكلات، وتحويل الأفكار إلى مشاريع ذات قيمة حقيقية.<br><br> 📫 تواصل معي<br><br>🌐 الموقع الشخصي: [belal-shaif.vercel.app](https://belal-shaif.vercel.app/)<br>💻 GitHub: [Belalshaif1](https://github.com/Belalshaif1)<br> 🏢 الشركة: [GigatopX](https://ww.gigatopx.com/)<br><br><br>بلال شائف | نبني حلولًا تقنية تصنع الفرق <br>
+# بلال شائف عبدالله سيف
 
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/belal-shaif-abdullah-saif-85606a425) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Belal Shaif) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:belalshaif@gmail.com) 
+### 👨‍💻 مهندس برمجيات | مؤسس ومدير تنفيذي لشركة GigatopX
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Belalshaif1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Belalshaif1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Belalshaif1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![الموقع الشخصي](https://img.shields.io/badge/🌐_الموقع_الشخصي-belal--shaif.vercel.app-000000?style=for-the-badge)](https://belal-shaif.vercel.app/)
+[![الشركة](https://img.shields.io/badge/🏢_الشركة-GigatopX-4B0082?style=for-the-badge)](https://ww.gigatopx.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/belal-shaif-abdullah-saif-85606a425)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:belalshaif@gmail.com)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Belalshaif1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Belalshaif1&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 👋 نبذة عني
+
+أنا **بلال شائف عبدالله سيف**، مهندس برمجيات وخريج بكالوريوس علوم الحاسوب لعام **2025** بمرتبة الشرف، ومؤسس ومدير تنفيذي لشركة **GigatopX** المتخصصة في تطوير البرمجيات والحلول التقنية والتحول الرقمي.
+
+أعمل على تصميم وتطوير الأنظمة البرمجية المتكاملة، وتحويل الأفكار إلى منتجات رقمية عملية تساعد الشركات والمؤسسات على تنظيم أعمالها، وتحسين كفاءتها، وتطوير خدماتها.
+
+أجمع في عملي بين **الخبرة التقنية** و**الرؤية الريادية**، مع التركيز على بناء منتجات قابلة للتطوير، وتجربة مستخدم متميزة، وحلول تلبي الاحتياجات الفعلية للعملاء.
+
+---
+
+## 🎯 عن عملي
+
+بصفتي مؤسسًا ومديرًا تنفيذيًا لشركة **GigatopX**، أركز على تطوير المنتجات البرمجية وإدارة توجهها التقني، والعمل على تحويل الاحتياجات التجارية والإدارية إلى حلول رقمية متكاملة.
+
+<table>
+<tr>
+<td width="50%">
+
+- 💻 تطوير مواقع الويب والمنصات الرقمية
+- 📱 تطوير تطبيقات الهواتف المحمولة
+- 🧾 بناء الأنظمة المحاسبية وأنظمة ERP
+- 🏢 تطوير أنظمة إدارة الشركات والموارد البشرية
+
+</td>
+<td width="50%">
+
+- 🎓 تطوير المنصات التعليمية وأنظمة إدارة المدارس والجامعات
+- 🤖 دمج تقنيات الذكاء الاصطناعي في التطبيقات والأنظمة
+- ⚙️ تطوير الواجهات الخلفية وواجهات برمجة التطبيقات وقواعد البيانات
+- 🔄 تطوير حلول التحول الرقمي وأتمتة العمليات
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌟 أبرز المشاريع
+
+### 🎓 الدليل الجامعي الذكي | Smart University Handbook
+
+> منصة تعليمية تهدف إلى توفير دليل شامل للجامعات والكليات والأقسام الأكاديمية والبرامج التعليمية، مع خدمات ومعلومات موجهة للطلاب والباحثين وأولياء الأمور، إلى جانب خدمات إدارة شؤون الطلاب.
+
+🔗 **[زيارة المنصة](https://smartuniversity.vercel.app/)**
+
+---
+
+### 🧾 الأنظمة المحاسبية وأنظمة ERP
+
+> تطوير حلول لإدارة الحسابات والمبيعات والمشتريات والمخزون والفواتير والمدفوعات والتقارير المالية، مع الاهتمام بالتشغيل المحلي وإمكانية العمل دون اتصال دائم بالإنترنت.
+
+🔗 **[تجربة النظام المحاسبي](https://almanzar.gigatopx.com/)**
+
+---
+
+### 💼 FinTopx | المحاسبة والموارد البشرية
+
+> منتج برمجي يركز على توفير حلول لإدارة العمليات المحاسبية والموارد البشرية ضمن منظومة مترابطة لدعم احتياجات الشركات والمؤسسات.
+
+---
+
+### 🏫 نظام إدارة المدارس
+
+> نظام لتنظيم البيانات المدرسية والطلاب، مع بوابة للطلاب للاطلاع على الدرجات والمعلومات الأكاديمية.
+
+🔗 **[زيارة النظام](https://martyr-school.vercel.app/)**
+
+---
+
+### 🏥 نظام إدارة العيادات
+
+> تطبيق ويب يهدف إلى تنظيم العمليات الإدارية الأساسية للعيادات وتسهيل إدارة المعلومات.
+
+---
+
+### 🤖 CraftBot | المساعد الذكي
+
+> مشروع تقني يركز على تطوير منصة للمساعدات الذكية، والاستفادة من نماذج الذكاء الاصطناعي وقواعد البيانات المتجهية في المحادثة واسترجاع المعلومات.
+
+---
+
+## 🛠️ التقنيات والأدوات
+
+<div align="center">
+
+### 🎨 تطوير الواجهات الأمامية
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### 📱 تطوير تطبيقات الهواتف
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### ⚙️ تطوير الأنظمة الخلفية
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### 🗄️ قواعد البيانات والخدمات السحابية
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### 🧰 أدوات وتقنيات أخرى
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 🎯 رؤيتي
+
+> أسعى من خلال **GigatopX** إلى المساهمة في تطوير قطاع البرمجيات والتحول الرقمي، وبناء منتجات تقنية عملية وقابلة للتوسع، تساعد الشركات والمؤسسات على إدارة مواردها وتحسين عملياتها وتعزيز قدرتها على النمو.
+>
+> أؤمن بأن التقنية ليست مجرد أدوات وبرمجيات، بل وسيلة لصناعة الفرص، وحل المشكلات، وتحويل الأفكار إلى مشاريع ذات قيمة حقيقية.
+
+---
+
+## 📫 تواصل معي
+
+<div align="center">
+
+[![الموقع الشخصي](https://img.shields.io/badge/🌐_الموقع_الشخصي-000000?style=for-the-badge)](https://belal-shaif.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Belalshaif1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Belalshaif1)
+[![الشركة](https://img.shields.io/badge/🏢_GigatopX-4B0082?style=for-the-badge)](https://ww.gigatopx.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/belal-shaif-abdullah-saif-85606a425)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:belalshaif@gmail.com)
+[![Mastodon](https://img.shields.io/badge/Mastodon-2B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@Belal%20Shaif)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.shion.dev/api?username=Belalshaif1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://streak-stats.demolab.com/?user=Belalshaif1&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Belalshaif1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Belalshaif1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ بلال شائف | نبني حلولًا تقنية تصنع الفرق ✨
+
+![](https://komarev.com/ghpvc/?username=Belalshaif1&icon=0&color=0)
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
